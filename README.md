@@ -6,6 +6,7 @@
 
 
 ## Reference Courses
+* [Stanford Natural Language Processing Resoirces][https://nlp.stanford.edu/teaching/]
 * [AI Books](https://aibooks.github.io/)
 * [CS 6840](http://ace.cs.ohio.edu/~razvan/courses/nlp6840/index.html): Natural Language Processing by Ohio University
 * [89-7260 Natural Language Processing and Applications](http://nlpa.iupr.com/): taught at TU Kaiserlautern
