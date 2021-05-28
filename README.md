@@ -6,6 +6,7 @@
 
 
 ## Reference Courses
+* [Speech and Natural Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin from the Stanford University
 * [Stanford Natural Language Processing Resoirces][https://nlp.stanford.edu/teaching/]
 * [AI Books](https://aibooks.github.io/)
 * [CS 6840](http://ace.cs.ohio.edu/~razvan/courses/nlp6840/index.html): Natural Language Processing by Ohio University
